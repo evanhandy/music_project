@@ -1,0 +1,69 @@
+
+.btn {
+
+	transition: background-color 1s;
+}
+
+.btn:hover {
+	background-color: red !important; 
+}
+#C {
+	background-color: #F8F8FF;
+	color: black;
+}
+
+#Cs {
+
+	background-color: #7FFFD4;
+	color: black;
+}
+#D {
+	background-color: #FFD700;
+	color: black;
+}
+#Eb {
+ 	background-color: #BDB76B;
+ 	color: black;
+}
+
+#E {
+	background-color: #228B22;
+	color: black;
+}
+#F {
+	background-color: #F08080;
+	color: black;
+}
+#Fs {
+	background-color: #778899;
+	color: white;
+}
+
+#G {
+
+	background-color: #F4A460;
+	color: white;
+}
+#Ab {
+	background-color: #808000;
+	color: white;
+}
+
+#A {
+	background-color: #DB7093;
+	color: white;
+}
+#Bb {
+
+	background-color:  	#4B0082;
+	color: white;
+}
+
+#B {
+	background-color: #191970;
+	color: white;
+}
+
+.changedColor {
+	background-color: red;
+}
