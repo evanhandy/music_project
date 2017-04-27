@@ -20,7 +20,10 @@ var piano = new Wad({
 
 
 
-$( "button" ).on( "click", function() {
+$( "button" ).click(function() {
 var noteId = $(this).text();
 piano.play({ pitch : noteId + "4" })
+$(this).effect( "shake", {times:  2, direction: "down", distance: 10}, 50 );   // Feel free to comment this line out if distracting
 });
+
+
